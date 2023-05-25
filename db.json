@@ -17,6 +17,12 @@
       "name": "Complete VUE3 course",
       "complete": false,
       "tag": "learning"
+    },
+    {
+      "id": 4,
+      "name": "Get Rugile to trains station",
+      "complete": true,
+      "tag": "transport"
     }
   ]
 }
