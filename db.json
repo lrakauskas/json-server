@@ -1,0 +1,22 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "name": "Take out the trash",
+      "complete": false,
+      "tag": "household"
+    },
+    {
+      "id": 2,
+      "name": "Feed the cat goddamit",
+      "complete": false,
+      "tag": "household"
+    },
+    {
+      "id": 3,
+      "name": "Complete VUE3 course",
+      "complete": false,
+      "tag": "learning"
+    }
+  ]
+}
