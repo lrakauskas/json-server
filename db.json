@@ -24,7 +24,10 @@
 			"tag": "transport"
 		}
 	],
-	"team": [{
+	"team": {
+      "spots": 5,
+      "title": "Silly Billy",
+      "members": [{
 			"id": 1,
 			"image": "https://i.pravatar.cc/75?u=johny.deep@so.com",
 			"name": "Johny Deep",
@@ -44,6 +47,6 @@
 			"name": "Pina Via",
 			"email": "pina.via@so.com",
 			"is_enabled": false
-		}
-	]
+		}]
+    }
 }
