@@ -43,7 +43,7 @@
 			"image": "https://i.pravatar.cc/75?u=pina.via@so.com",
 			"name": "Pina Via",
 			"email": "pina.via@so.com",
-			"is_enabled": true
+			"is_enabled": false
 		}
 	]
 }
