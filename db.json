@@ -24,5 +24,28 @@
       "complete": true,
       "tag": "transport"
     }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "image": "https://i.pravatar.cc/75?u=johny.deep@so.com"
+      "name": "Johny Deep",
+      "email": "johny.deep@so.com",
+      "is_enabled": true,
+    },
+    {
+      "id": 2,
+      "image": "https://i.pravatar.cc/75?u=lukas.rakauskas@so.com"
+      "name": "Lukas Rakauskas",
+      "email": "lukas.rakauskas@so.com",
+      "is_enabled": true,
+    },
+    {
+      "id": 3,
+      "image": "https://i.pravatar.cc/75?u=pina.via@so.com"
+      "name": "Pina Via",
+      "email": "pina.via@so.com",
+      "is_enabled": true,
+    },
   ]
 }
